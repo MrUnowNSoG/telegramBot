@@ -14,7 +14,7 @@ namespace Anti_war_mini_bot {
 
 
         //Main setting
-        private static string token { get; set; } = "5113338542:AAFTKt8lPCIxKpyxjwq2mfuBq16NKbvhxok";
+        private static string token { get; set; } = "xxxxxxxxxxKeyxxxxxxxxxxx";
         private static        TelegramBotClient     client;
 
         //
